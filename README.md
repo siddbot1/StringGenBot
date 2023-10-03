@@ -1,0 +1,2 @@
+# StringGenBot
+String Session GenBot 
